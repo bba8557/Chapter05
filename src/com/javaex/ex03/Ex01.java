@@ -15,6 +15,7 @@ public class Ex01 {
 		InputStreamReader isr = new InputStreamReader(in);
 		BufferedReader br = new BufferedReader(isr);
 
+		
 		while (true) {
 			String str = br.readLine();
 			str.split(",");
